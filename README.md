@@ -1,8 +1,8 @@
 # Ex-13-Invoice-Processing-automation-using-OCR
 
 ~~~
-Name : M.JOHNPALL
-Reg.No : 212224040140
+Name : DILLIARASU M
+Reg.No : 212223230049
 ~~~
 
 ## Aim
